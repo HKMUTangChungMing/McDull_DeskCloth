@@ -1,4 +1,8 @@
 # McDull_DeskCloth
+
+<img width="2283" height="1284" alt="image" src="https://github.com/user-attachments/assets/48c7fc64-5ae7-4c14-9d06-2987c1513baa" />
+
+
 Recently I made a Window app with Claude AI. It is only for fun.
 The app can use PNG pictures and also GIF pictures. If one table is not enough, I can add more tables.
 I can make the sound quiet or not quiet. The table cloth can bounce in different ways. There are many levels to choose.
